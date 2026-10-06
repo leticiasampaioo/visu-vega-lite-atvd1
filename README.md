@@ -8,7 +8,7 @@ vida e saúde de 20.000 indivíduos.
 
 ---
 
-## Exercício 1 — Média de uma variável por tipo de treino
+## Exercício 1 - Média de uma variável por tipo de treino
 
 O primeiro gráfico apresenta o valor médio de calorias queimadas,
 agrupado pelo tipo de treino (`Workout_Type`) e ordenado de forma crescente.
@@ -20,7 +20,7 @@ agrupado pelo tipo de treino (`Workout_Type`) e ordenado de forma crescente.
 
 ---
 
-## Exercício 2 — Relação entre calorias queimadas e duração da sessão por gênero
+## Exercício 2 - Relação entre calorias queimadas e duração da sessão por gênero
 
 O segundo gráfico apresenta a relação entre a duração da sessão de treino
 e as calorias queimadass.
